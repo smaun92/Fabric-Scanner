@@ -29,3 +29,5 @@ LED 6 Polarized
 LED 8 Non-Polarized
 Camera: Fujifilm GFX 100s
 Lens: Fixed Lens 63mm and 250mm
+Bluetooth connectivity added using HC-06 Bluetooth module
+App to control the scanner was designed in MIT app inventor
